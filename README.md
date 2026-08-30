@@ -32,10 +32,4 @@ The project includes:
 
 ---
 
-## ⚙️ How to Run
 
-1. Open **pgAdmin 4** or your preferred PostgreSQL client  
-2. Create a new database (e.g. `car_sales_db`)  
-3. Run the provided SQL script:
-   ```sql
-   \i 'path/to/car_sales.sql'
